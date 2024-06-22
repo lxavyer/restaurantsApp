@@ -1,0 +1,25 @@
+<!-- res/menu/navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Chinesa"
+        android:title="Chinesa" />
+    <item
+        android:id="@+id/Arabe"
+        android:title="Arabe" />
+    <item
+        android:id="@+id/Churrasco"
+        android:title="Churrasco" />
+    <item
+        android:id="@+id/Tailandesa"
+        android:title="Tailandesa" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/action_open_drawer"
+        android:icon="@drawable/ic_menu"
+        android:title="Todos os Restaurantes"
+        app:showAsAction="ifRoom" />
+
+</menu>

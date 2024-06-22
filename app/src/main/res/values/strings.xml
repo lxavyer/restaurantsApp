@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestaurantsApp</string>
+    <string-array name="categorias_array">
+        <item>Chinesa</item>
+        <item>Tailandesa</item>
+        <item>Churrasco</item>
+        <item>Arabe</item>
+    </string-array>
+</resources>
